@@ -19,15 +19,15 @@ Dans cette approche, les requêtes et les réponses sont construites autour du t
 ## 3. Les différentes vues du site web 
 
  <div align="center">
-    <img src="V1.png" alt="Logo" width="200" height="200">
+    <img src="V1.png" alt="Logo" width="700" height="350">
   </div> 
 
    <div align="center">
-    <img src="V2.png" alt="Logo" width="200" height="200">
+    <img src="V2.png" alt="Logo" width="700" height="350">
   </div> 
    <div align="center">
-    <img src="V3.png" alt="Logo" width="200" height="200">
+    <img src="V3.png" alt="Logo" width="700" height="350">
   </div> 
    <div align="center">
-    <img src="V4.png" alt="Logo" width="200" height="200">
+    <img src="V4.png" alt="Logo" width="700" height="350">
   </div> 
