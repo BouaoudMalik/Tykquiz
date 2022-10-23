@@ -18,16 +18,25 @@ Dans cette approche, les requêtes et les réponses sont construites autour du t
 
 ## 3. Les différentes vues du site web 
 
+### 3.1 Page d'accueil 
+
  <div align="center">
     <img src="V1.png" alt="Logo" width="700" height="350">
   </div> 
 
+### 3.2 Page d'inscription 
+
    <div align="center">
     <img src="V2.png" alt="Logo" width="700" height="350">
   </div> 
+
+### 3.3 Leaderboard 
+
    <div align="center">
     <img src="V3.png" alt="Logo" width="700" height="350">
   </div> 
+
+### 3.4 Questions du Quiz 
    <div align="center">
     <img src="V4.png" alt="Logo" width="700" height="350">
   </div> 
